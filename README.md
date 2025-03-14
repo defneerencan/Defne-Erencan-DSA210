@@ -86,5 +86,5 @@ The dataset consists of **Akbank card transaction records**, exported as an **Ex
 - **Future Visualization Improvements:** Creating an interactive dashboard to track spending habits in real-time.
 
 ---
-This project follows the **DSA210 Project Guidelines** and provides a data-driven approach to understanding how my spending habits change throughout different seasons of the year.
+
 
