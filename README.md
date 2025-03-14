@@ -57,13 +57,13 @@ The dataset consists of **Akbank card transaction records**, exported as an **Ex
   - **School Term (October – May)**
   - **Family Home Periods (Winter & Summer Breaks)**
 
-## Data Analysis
-- **Total Spending Over Time:** Comparing overall spending in summer vs. school periods using **line charts**.
-- **Category-Based Analysis:** Visualizing how much I spend on different categories using **bar charts and other visualization methods**.
-- **Social vs. Academic Spending:** Examining changes in **social spending vs. study-related purchases**.
-- **Coffee Consumption Trends:** Analyzing the **frequency and cost of coffee purchases** during exam weeks.
-- **Balance Management:** Observing how quickly my card balance depletes during school vs. summer.
-- **Family Home Spending Trends:** Comparing spending patterns during breaks when I am at home versus when I am at university.
+## Data Analysis & Visualizations
+- **Total Spending Over Time:** Comparing overall spending in summer vs. school periods using **line charts, area charts, and moving averages**.
+- **Category-Based Analysis:** Visualizing how much I spend on different categories using **bar charts and stacked bar plots**.
+- **Social vs. Academic Spending:** Examining changes in **social spending vs. study-related purchases** using **grouped bar charts and violin plots**.
+- **Coffee Consumption Trends:** Analyzing the **frequency and cost of coffee purchases** during exam weeks using **histograms, line plots**.
+- **Balance Management:** Observing how quickly my card balance depletes during school vs. summer using **scatter plots and cumulative sum graphs**.
+- **Family Home Spending Trends:** Comparing spending patterns during breaks when I am at home versus when I am at university using **box plots and heatmaps**.
 
 ## Hypothesis Testing
 - **Spending Variance Test:**
