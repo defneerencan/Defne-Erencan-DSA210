@@ -48,7 +48,7 @@ The dataset consists of **Akbank card transaction records**, exported as an **Ex
 
 ## Data Analysis
 - **Total Spending Over Time:** Comparing overall spending in summer vs. school periods using **line charts**.
-- **Category-Based Analysis:** Visualizing how much I spend on different categories using **bar charts and pie charts**.
+- **Category-Based Analysis:** Visualizing how much I spend on different categories using **bar charts and other visualizitaion methods**.
 - **Social vs. Academic Spending:** Examining changes in **social spending vs. study-related purchases**.
 - **Coffee Consumption Trends:** Analyzing the **frequency and cost of coffee purchases** during exam weeks.
 - **Balance Management:** Observing how quickly my card balance depletes during school vs. summer.
