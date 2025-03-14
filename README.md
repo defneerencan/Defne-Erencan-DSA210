@@ -68,14 +68,6 @@ The dataset consists of **Akbank card transaction records**, exported as an **Ex
   - Null Hypothesis (H₀): Spending is **the same** when I am at university versus when I am at my family home.
   - Alternative Hypothesis (H₁): Spending **significantly decreases** when I return home.
 
-## Findings
-- **School term spending is generally higher**, with more frequent small purchases.
-- **Social spending is dominant in summer**, with more expenses in restaurants and cafes.
-- **Coffee purchases increase during exam periods**, supporting the assumption that study workload affects spending behavior.
-- **Self-care and personal expenses rise in summer**, while academic expenses dominate school months.
-- **Balance depletion is faster in school months** due to frequent food and transportation costs.
-- **Spending significantly drops when I am at my family home**, as I don’t need to pay for meals, utilities, and transportation.
-
 ## Limitations & Future Work
 - **Personalized data:** The analysis is based on my own spending behavior, so it is not generalizable.
 - **Limited Data Range:** Expanding the dataset to multiple years could improve trend detection.
