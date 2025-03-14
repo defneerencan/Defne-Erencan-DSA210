@@ -1,7 +1,7 @@
 # Defne Erencan DSA210 Term Project
 
 ## Introduction
-This project aims to analyze my **seasonal spending habits** using my **Akbank card transaction history**. The goal is to compare how my financial behavior differs between **summer vacation** and the **school term**, focusing on spending trends, social activities, and personal expenses. Additionally, I will examine how my spending changes when I return to my **family home**, where my expenses are generally lower.
+My name is Defne Erencan and my project aims to analyze my **seasonal spending habits** using my **Akbank card transaction history**. The goal is to compare how my financial behavior differs between **summer vacation** and the **school term**, focusing on spending trends, social activities, and personal expenses. Additionally, I will examine how my spending changes when I return to my **family home**, where my expenses are generally lower.
 
 ## Motivation
 As a university student, my daily routine and financial priorities change significantly depending on the time of the year. Some key differences I want to explore include:
