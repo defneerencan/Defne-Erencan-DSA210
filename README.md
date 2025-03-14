@@ -19,12 +19,23 @@ The dataset consists of **Akbank card transaction records**, exported as an **Ex
 - **Merchant Name** – Where the transaction took place.
 - **Remaining Balance** – Card balance after each transaction.
 
-## Hypothesis
-- **Spending Patterns:** I expect my **total spending** to be **higher during school periods** due to daily necessities and transportation costs.
-- **Social Activities:** I assume my **social spending increases in summer**, with more outings and restaurant visits.
-- **Self-Care vs. Academic Expenses:** My spending on **self-care (books, skincare, hobbies)** might increase in summer, whereas during school, I focus on **study-related costs**.
-- **Coffee Consumption:** I predict a **higher number of coffee purchases** during the academic term due to exam stress and study sessions.
-- **Lower Spending at Family Home:** I assume my expenses significantly drop when I return home, as I don’t have to pay for food, utilities, and other necessities.
+## Hypothesis Testing
+- **Spending Variance Test:**
+  - Null Hypothesis (H₀): There is **no significant difference** in spending between school and summer periods.
+  - Alternative Hypothesis (H₁): **Spending is significantly different** between these periods.
+  - Conducting **t-tests** to determine statistical significance.
+  - **p-value Interpretation:** If **p-value < 0.05**, the difference in spending between school and summer is significant; otherwise, it is not.
+
+- **Coffee Consumption Test:**
+  - Null Hypothesis (H₀): Exam weeks do **not** impact coffee purchases.
+  - Alternative Hypothesis (H₁): **Exam weeks correlate with increased coffee spending**.
+  - **p-value Interpretation:** If **p-value < 0.05**, the increase in coffee purchases is statistically significant.
+
+- **Family Home Spending Test:**
+  - Null Hypothesis (H₀): Spending is **the same** when I am at university versus when I am at my family home.
+  - Alternative Hypothesis (H₁): Spending **significantly decreases** when I return home.
+  - **p-value Interpretation:** If **p-value < 0.05**, spending at home is significantly lower compared to university periods.
+
 
 ## Tools & Technologies
 - **Python**
